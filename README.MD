@@ -1,4 +1,4 @@
-# $E^3$: Exploring Embodied Emotion Through \\\\A Large-Scale Egocentric Video Dataset
+# $E^3$: Exploring Embodied Emotion Through A Large-Scale Egocentric Video Dataset
 This repo holds the implementation code and [dataset](dataset/README.MD) <br>
 ![methodology](repo_imgs/pic1.png)
 
