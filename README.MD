@@ -62,6 +62,21 @@ Then run the following script <br>
 bash test_benchmark/quantitative_evaluation/evaluate_benchmark.sh
 ```
 
+## 🎈Citation
+If you find our work valuable, we would appreciate your citation: 
+```text
+@article{feng20243,
+  title={$ E\^{} 3$: Exploring Embodied Emotion Through A Large-Scale Egocentric Video Dataset},
+  author={Feng, Yueying and Han, WenKang and Jin, Tao and Zhao, Zhou and Wu, Fei and Yao, Chang and Chen, Jingyuan and others},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={118182--118197},
+  year={2024}
+}
+
+```
+
+
 ## Acknowledgements
 
 [MiniGPT4-video](https://github.com/Vision-CAIR/MiniGPT4-video) <br>
